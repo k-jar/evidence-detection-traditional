@@ -58,4 +58,9 @@ The Jupyter notebook contains configuration options at the top.
 
 ## 7. Attribution
 
-*   TODO
+*   [XGBoost](https://github.com/dmlc/xgboost) (Classifier)
+*   [Sentence Transformers](https://www.sbert.net/) (Embeddings: `all-MiniLM-L6-v2`)
+*   [Optuna](https://optuna.org/) (Hyperparameter Tuning)
+*   [NLTK](https://www.nltk.org/) (Preprocessing, VADER)
+*   [Scikit-learn](https://scikit-learn.org/) (Metrics, CV)
+*   [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Tqdm](https://tqdm.github.io/), [Kaleido](https://github.com/plotly/Kaleido)
