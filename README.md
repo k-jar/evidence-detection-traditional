@@ -54,7 +54,7 @@ The Jupyter notebook contains configuration options at the top.
 
 ## 6. Model Storage
 
-*   **Link to Model:** [Google Drive](https://drive.google.com/drive/folders/1roXEaI_bne7Vlwe_xuRYL0mPA8lUZaL6?usp=drive_link)
+*   **Link to Model Folder:** [Google Drive](https://drive.google.com/drive/folders/1roXEaI_bne7Vlwe_xuRYL0mPA8lUZaL6?usp=drive_link)
 
 ## 7. Attribution
 
